@@ -1,1 +1,1 @@
-este eh o aquivo de requisitos
+este eh o aquivo de requisitos.
